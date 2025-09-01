@@ -1,7 +1,8 @@
 ## Olá, eu sou Lucas Medeiros
 
-- ✨ Sou aluno do IFMS e estudo programação
+- ✨ Curso Ciência da Computação e estudo programação
 - 😁 Gosto muito de front-end
+- Faço curso front-end na Origamid
 
 [![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://portfoliolucasmedeiros.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/lucasfiaesmedeiros)
